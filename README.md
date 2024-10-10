@@ -1,5 +1,7 @@
 #  👋 Hi, I’m @nangdypanhar
-  
+   A computer science student specialized in Software engineering.
+   I'm really interested in solving problem by using technology and learning new things.
+   
   
 
 <!---
