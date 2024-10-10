@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nangdypanhar
-- 👀 I’m interested in coding and learning new things.
-- 📫 Reach me out nangdypanhar@gmail.com
+#  👋 Hi, I’m @nangdypanhar
+  
   
 
 <!---
